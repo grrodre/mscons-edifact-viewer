@@ -10,7 +10,7 @@ Upload your MSCONS file and instantly explore its structure, sender, receiver, m
 
 ## Screenshot
 
-![MSCONS Viewer screenshot](img/screenshot_mscons_viewer.png)
+![MSCONS Viewer screenshot](img/mscons_viewer.png)
 
 ---
 
